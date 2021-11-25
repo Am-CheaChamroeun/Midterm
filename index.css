@@ -1,0 +1,27 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+.navbar {
+height: 6.5rem;
+background-color: white;
+color: black;
+position: sticky !important;
+top: 0 !important;
+z-index: 2 !important;
+}
+.navbar .navbar-brand {
+color: black;
+font-size: 1.5rem;
+}
+.navbar ul li a {
+color: black !important;
+font-size: 1.4rem;
+font-weight: 700;
+}
+.navbar ul li a:hover {
+border-bottom: 3px solid #000;
+}
+.VC-logo {
+    width: 200px;
+    height: 200px;
+}
